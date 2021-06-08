@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1642647443865816,
+        "firstName": "user",
+        "lastName": "user",
+        "email": "user@mail.ru",
+        "password": "123456"
+    },
+    {
+        "id": 1642873172076583,
+        "firstName": "user",
+        "lastName": "user",
+        "email": "test@mail.ru",
+        "password": "123456"
+    },
+    {
+        "id": 1642873211819639,
+        "firstName": "kk",
+        "lastName": "kk",
+        "email": "kk@kk.kk",
+        "password": "456789"
+    },
+    {
+        "id": 1642873232383706,
+        "firstName": "ghfh",
+        "lastName": "kkshfhf",
+        "email": "mm@mm.mm",
+        "password": "sfhfdhf"
+    },
+    {
+        "id": 1642920678547591,
+        "firstName": "kkk",
+        "lastName": "mm",
+        "email": "ll@ll.ru",
+        "password": "123456"
+    },
+    {
+        "id": 1642924620141777,
+        "firstName": "ghjghj",
+        "lastName": "ghjghjdgh",
+        "email": "user1@mail.ru",
+        "password": "123456"
+    },
+    {
+        "id": 1695560644191782,
+        "firstName": "Ashot",
+        "lastName": "Grigoryan",
+        "email": "user@email.com",
+        "password": "123456"
+    }
+]
